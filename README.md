@@ -4,10 +4,11 @@ An intelligent, IoT-based safety alarm system powered by an **Arduino Uno**, an 
 
 ---
 
-## 📸 Hardware Setup
+## 📸 Hardware Setup & Schema
 
 <div align="center">
-  <img src="images/setup.jpg" alt="Hardware Setup" width="600px"/>
+  <img src="images/Physical_Board.jpg" alt="Hardware Setup" width="600px"/>
+  <img src="images/Schema.png" alt="Hardware Setup" width="600px"/>
   <p><em>Complete circuit assembly featuring Arduino Uno, MQ-2 Smoke Sensor, Flame Sensor, and Buzzer.</em></p>
 </div>
 
